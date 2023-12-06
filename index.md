@@ -10,7 +10,7 @@ This is my home page! My name is Saul Rodriguez and I am a student at [Cal State
 
 
 
-My GitHub page is http://github.com/saul-byte
+My GitHub page is [http://github.com/saul-byte]
 
 
 
@@ -22,7 +22,7 @@ My GitHub page is http://github.com/saul-byte
 
 
 
-    Lab 1, Part 1 was one of my favorite programs because me and my partner did the traditional rite of passage for when you first code in a high-level programming language like C++. I was able to write a variation of the infamous "Hello World" program which served as an intro to the very basics of input and output in C++. Alongside the input and output, I was also practiced ending lines and standard interpretation of C++ as a language.
+    Lab 1, Part 1 was one of my favorite programs because me and my partner engaged in the traditional rite of passage for when you first code in a high-level programming language like C++. I was able to write a variation of the infamous 'Hello World' program which served as an introduction to the fundamental concepts of input and output in C++. Alongside the input and output, I was also practiced ending lines and standard interpretation of C++ as a language.
 
 
 * Lab 5
