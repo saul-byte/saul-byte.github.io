@@ -1,14 +1,23 @@
 # Hello World
-This is my home page! My name is Saul Rodriguez and I am a student at Cal State Fullerton(http://www.fullerton.edu/) and my major is Computer Science.
+
+
+
+This is my home page! My name is Saul Rodriguez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 
 
 ## Computer Science Projects
+
+
+
 My GitHub page is http://github.com/saul-byte
 
 
 
 ### CPSC 120
+
+
+
 * Lab 1
 
 
@@ -26,4 +35,4 @@ My GitHub page is http://github.com/saul-byte
 * Lab 11
 
 
-    Lab 11, Part 1 ended being a terrific assignment that introduced Object-Orientated Programming OOP, and class structuring. This one was the most difficult lab I had done at the time because of the switch from Procedural Programming to OOP was abrupt but necessary as OOP is a more applicable form of programming in C++ which would only prepare me for the future. I also enjoyed this lab considering I employed various strategies of coding from my entire semester of learning like for loops, data-type conversions, vectors, push_back, etc.
+    Lab 11, Part 1 ended being a terrific assignment that introduced Object-Orientated Programming __OOP__, and class structuring. This one was the most difficult lab I had done at the time because of the switch from _Procedural Programming_ to _OOP_ was abrupt but necessary as _OOP_ is a more applicable form of programming in C++ which would only prepare me for the future. I also enjoyed this lab considering I employed various strategies of coding from my entire semester of learning like for loops, data-type conversions, vectors, push_back, etc.
