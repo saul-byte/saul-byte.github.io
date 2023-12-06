@@ -10,7 +10,7 @@ This is my home page! My name is Saul Rodriguez and I am a student at [Cal State
 
 
 
-My GitHub page is [http://github.com/saul-byte]
+My GitHub page is (http://github.com/saul-byte)
 
 
 
@@ -29,7 +29,7 @@ My GitHub page is [http://github.com/saul-byte]
 
 
 
-    Lab 5, Part 2 had a significant impact on me because of how math-orientated the lab was. The conversion between the data types of "int" and "double" with the application of the imperial measurments like inches and feet left me feeling satisfied during coding because the program was very applicable to real-life scenarios. Besides the intention of the program, the actual coding was challenging in an amazing way, since we had to create if-else statements and deal with limits as well.
+    Lab 5, Part 2 had a significant impact on me because of how math-orientated the lab was. The conversion between the data types of _"int"_ and _"double"_ with the application of the imperial measurments like inches and feet left me feeling satisfied during coding because the program was very applicable to real-life scenarios. Besides the intention of the program, the actual coding was challenging in an amazing way, since we had to create if-else statements and deal with limits as well.
 
 
 * Lab 11
