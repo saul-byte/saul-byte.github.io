@@ -10,7 +10,7 @@ This is my home page! My name is Saul Rodriguez and I am a student at [Cal State
 
 
 
-My GitHub page is http://github.com/saul-byte
+My GitHub page is https://github.com/saul-byte
 
 
 
