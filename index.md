@@ -1,4 +1,4 @@
-# Hello World
+# Saul Rodriguez's Portfolio
 
 
 
@@ -35,4 +35,4 @@ My GitHub page is http://github.com/saul-byte
 * Lab 11
 
 
-    Lab 11, Part 1 ended being a terrific assignment that introduced Object-Orientated Programming __OOP__, and class structuring. This one was the most difficult lab I had done at the time because of the switch from _Procedural Programming_ to _OOP_ was abrupt but necessary as _OOP_ is a more applicable form of programming in C++ which would only prepare me for the future. I also enjoyed this lab considering I employed various strategies of coding from my entire semester of learning like for loops, data-type conversions, vectors, push_back, etc.
+    Lab 11, Part 1 ended being a terrific assignment that introduced Object-Orientated Programming __OOP__, and class structuring. This one was the most difficult lab I had done at the time because of the switch from _Procedural Programming_ to _OOP_ which was abrupt but necessary as _OOP_ is a more applicable form of programming in C++ that would prepare me for future endeavors. I also enjoyed this lab considering I employed many strategies of coding from my entire semester of learning like for loops, data-type conversions, vectors, push_back, etc.
